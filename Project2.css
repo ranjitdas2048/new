@@ -60,3 +60,10 @@ a:hover{
 a:active{
     background-color:darkgray;
 }
+
+#login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
